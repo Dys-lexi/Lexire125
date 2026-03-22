@@ -43,7 +43,7 @@ jobs:
                   # Package version to publish
                   version: ${{ env.cleanVersion }} # This is the tag that was created in the release but without the leading 'v'
                   # Description of the mod
-                  description: A reupload of the Headhunter gamemode
+                  description: lexi re125 mod
                   # Thunderstore API token
                   token: ${{ secrets.TS_KEY }}
                   # Directory to wrap the contents of the repo in
