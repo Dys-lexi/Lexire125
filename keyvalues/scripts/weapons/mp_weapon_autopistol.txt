@@ -575,7 +575,7 @@ WeaponData
 
             "spread_decay_rate"   							"*0.0"
             "spread_decay_delay"  							"*0.0"
-            "allow_headshots" 								"0"
+            "damage_headshot_scale"							"1.0"
             "ammo_default_total"							"1000"
             "ammo_stockpile_max"							"1000"
             "ammo_clip_size"   								"125"
